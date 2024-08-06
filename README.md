@@ -28,4 +28,4 @@ De tradições e glórias mil
 Tu és orgulho
 Dos desportistas do Brasil
 
-<a href="/gif/cassio-JhXuk3" title="cassio"><img src="https://i.makeagif.com/media/6-19-2023/JhXuk3.gif" alt="cassio"></a><div style="font-size:11px;">make <a href="/" title="make a gif">gaming GIFs</a> like this at MakeaGif</div>
+<img src="https://media.tenor.com/9EtSsTamY5UAAAAM/joinha-c%C3%A1ssio-ramos.gif" alt="Cassio Corinthians GIF - Cassio Corinthians Chupa - Discover &amp; Share GIFs"/>
