@@ -1,10 +1,3 @@
-
-        Hino do Corinthians
-    
-
-            Corinthians
-        
-
 Salve o Corinthians
 O campeão dos campeões
 Eternamente
@@ -35,4 +28,4 @@ De tradições e glórias mil
 Tu és orgulho
 Dos desportistas do Brasil
 
-<img src="https://i.makeagif.com/media/6-19-2023/JhXuk3.gif" alt="cassio on Make a GIF"/>
+<a href="/gif/cassio-JhXuk3" title="cassio"><img src="https://i.makeagif.com/media/6-19-2023/JhXuk3.gif" alt="cassio"></a><div style="font-size:11px;">make <a href="/" title="make a gif">gaming GIFs</a> like this at MakeaGif</div>
