@@ -1,31 +1,7 @@
-Salve o Corinthians
-O campeão dos campeões
-Eternamente
-Dentro dos nossos corações
+Boas Vindas ao Meu Perfil 
 
-Salve o Corinthians
-De tradições e glórias mil
-Tu és orgulho
-Dos desportistas do Brasil
+Sou o Luiz Henrique Crepaldi da Silva, estudante do ensino médio do 3º ano C da Escola Estadual Marciano de Toledo Piza, estudo cursos do Alura em JavaScript e começando HTML 
 
-Teu passado é uma bandeira
-Teu presente é uma lição
-Figuras entre os primeiros
-Do nosso esporte bretão
-
-Corinthians grande
-Sempre altaneiro
-És do Brasil
-O clube mais brasileiro
-
-Salve o Corinthians
-O campeão dos campeões
-Eternamente
-Dentro dos nossos corações
-
-Salve o Corinthians
-De tradições e glórias mil
-Tu és orgulho
-Dos desportistas do Brasil
+Você pode entrar em contato comigo: luizhenrisilva3@gmail.com
 
 <img src="https://media.tenor.com/9EtSsTamY5UAAAAM/joinha-c%C3%A1ssio-ramos.gif" alt="Cassio Corinthians GIF - Cassio Corinthians Chupa - Discover &amp; Share GIFs"/>
